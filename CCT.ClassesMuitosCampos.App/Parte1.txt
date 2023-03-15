@@ -1,0 +1,11 @@
+CCT - Classes com muitos campos
+=================================
+
+- Como esse conhecimento te ajuda?
+  - vai aprender a lidar com um problema muito comum
+  - muitos devs não enxergam o problema
+  - por ser comum, muitos copiam e colam sem pensar
+  - a sensação de que não dá para testar vai sumir
+
+- Mostrar código
+

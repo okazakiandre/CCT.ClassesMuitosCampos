@@ -1,0 +1,28 @@
+CCT - Classes com muitos campos
+=================================
+
+- Como esse conhecimento te ajuda?
+  - vai aprender a lidar com um problema muito comum
+  - muitos devs não enxergam o problema
+  - por ser comum, muitos copiam e colam sem pensar
+  - a sensação de que não dá para testar vai sumir
+
+- Mostrar código
+
+- Por que é um problema?
+  - às vezes não dá para evitar classes com muitos campos
+  - a vida real nem sempre segue o que é ideal
+  - o teste fica complexo
+    - muitos asserts
+    - muitos setups
+    - muitas combinações
+
+- Como resolver
+  - SoC (Separation of Concerns)
+  - separe a construção das regras
+  - separe os campos em grupos
+  - por consequência, o teste vai se separar também
+  - use o padrão builder
+  - pode combinar com o padrão fluent interface
+  - muito bom para legados, não altera o que já existe
+
